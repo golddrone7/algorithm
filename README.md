@@ -1,6 +1,7 @@
 # algorithm
 
-## 알고리즘, 코딩테스트 사이트  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h4>최종 수정일 23-03-05</h4>
+## 알고리즘, 코딩테스트 사이트
+<h4>최종 수정일 23-03-05</h4>
 
 ### 백준 : https://www.acmicpc.net/
 ### 프로그래머스 : https://programmers.co.kr/
