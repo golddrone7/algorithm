@@ -7,7 +7,7 @@
 
 
 ### 백준 추천문제 
-<li>
-  <ol>https://devjeong.com/algorithm/algorithm-1/</ol>
+<ol>
+  <li>https://devjeong.com/algorithm/algorithm-1/</li>
 
-</li>
+</ol>
