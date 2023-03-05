@@ -7,5 +7,7 @@
 
 
 ### 백준 추천문제 
-<div style="color:green">https://devjeong.com/algorithm/algorithm-1/  </div>
+<li>
+  <ol>https://devjeong.com/algorithm/algorithm-1/</ol>
 
+</li>
