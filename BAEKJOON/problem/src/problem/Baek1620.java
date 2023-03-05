@@ -26,6 +26,7 @@ public class Baek1620 {
 				dogam2.put(s, i);
 			}
 			
+			
 			for(int i=0; i<result; i++) {
 				results[i] = br.readLine();
 			}
