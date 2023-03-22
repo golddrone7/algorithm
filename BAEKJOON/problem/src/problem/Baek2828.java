@@ -44,14 +44,14 @@ public class Baek2828 {
 				 result+=idx;
 				 firstIdx = target-M+1;
 				 secondIdx = target;
-				 System.out.println("hi");
+//				 System.out.println("hi");
 			 } //첫번째 값이 인덱스만큼 움직임 
 			 else {
 				 int idx = Math.abs(firstIdx-target);
 				 result+=idx;
 				 firstIdx = target;
 				 secondIdx = target+(M-1);
-				 System.out.println("bye");
+//				 System.out.println("bye");
 			 }
 			 System.out.println(firstIdx + " " + secondIdx + " " + result);
 			
